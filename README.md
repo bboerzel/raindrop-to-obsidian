@@ -25,4 +25,4 @@ python3 raindrop-to-obsodian.py
 ```
 
 ## ToDo
-[] Error handling ;)
+- [ ] Error handling 😉
